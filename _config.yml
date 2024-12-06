@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Water Resources Engineer"
   location         : "Kerala, India"
-  employer         : "Red Brick University"
+  employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "aswinpunnithan1998@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "aswinpunnithan"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
